@@ -57,3 +57,6 @@ The PHP & MySQL Blog App with Admin Panel project is a web application that allo
 - categories Table
 
 ![Screenshot (119)](https://github.com/Underemployed/PHP-MySQL-Blog-Website-with-Admin-Panel-Backend/blob/main/categ.png?raw=true)
+
+
+<!-- Security scan triggered at 2026-08-31 17:26:27 -->
